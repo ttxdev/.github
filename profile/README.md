@@ -1,4 +1,4 @@
-The first decentralized, one-location, trading platform for your stock and cryptocurrency needs. 
+The first decentralize (we don't know where the AWS server is), trading platform for your stock and cryptocurrency needs. 
 Start trading today, with our on-the edge, multi level features:
 [Insert feature list here]
 
